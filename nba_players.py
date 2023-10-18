@@ -2,8 +2,10 @@
 # Created by Kevin Edmond.
 #
 # 
-# 
-#  
+# This script is used to extract NBA player data using an API call to RapidAPI, format, and 
+# store the player data in a CSV file. The following data is retrieved "player id #", "first 
+# name" , "last name", "position", "team name" for each player in the dataset. A CSV file 
+# named “nba_players.csv” is created to store the final output data.
 # 
 #
 # Please read README.md for full notes on script.
